@@ -2,8 +2,6 @@ E:\C#\Encryption\Encryption System\Encryption System\bin\Debug\Encryption System
 E:\C#\Encryption\Encryption System\Encryption System\bin\Debug\Encryption System.exe
 E:\C#\Encryption\Encryption System\Encryption System\bin\Debug\Encryption System.pdb
 E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption System.csprojAssemblyReference.cache
-E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption_System.Forget_password.resources
-E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption_System.Form1.resources
 E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption_System.Properties.Resources.resources
 E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption System.csproj.GenerateResource.cache
 E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption System.exe
@@ -11,3 +9,5 @@ E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption System
 E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption_System.Create_Account.resources
 E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption_System.Reset_Password.resources
 E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption_System.User_Account.resources
+E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption_System.Forget_password_check.resources
+E:\C#\Encryption\Encryption System\Encryption System\obj\Debug\Encryption_System.Main_Login.resources

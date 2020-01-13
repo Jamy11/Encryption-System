@@ -1,6 +1,6 @@
 ﻿namespace Encryption_System
 {
-    partial class Forget_password
+    partial class Forget_password_check
     {
         /// <summary>
         /// Required designer variable.
@@ -36,16 +36,16 @@
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.panel1.Location = new System.Drawing.Point(1, -1);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(801, 483);
+            this.panel1.Size = new System.Drawing.Size(905, 555);
             this.panel1.TabIndex = 1;
             // 
-            // Forget_password
+            // Forget_password_check
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(801, 480);
+            this.ClientSize = new System.Drawing.Size(899, 552);
             this.Controls.Add(this.panel1);
-            this.Name = "Forget_password";
+            this.Name = "Forget_password_check";
             this.Text = "Forget_password";
             this.ResumeLayout(false);
 

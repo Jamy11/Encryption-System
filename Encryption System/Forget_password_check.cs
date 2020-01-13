@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Encryption_System
 {
-    public partial class Forget_password : Form
+    public partial class Forget_password_check : Form
     {
-        public Forget_password()
+        public Forget_password_check()
         {
             InitializeComponent();
         }
